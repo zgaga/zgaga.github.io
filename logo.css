@@ -311,7 +311,7 @@ body {
 .jupytercon-section {
     background: url('img/jupytercon-ny.jpg');
     background-size: 100%;
-    color: rgb(221, 112, 10);
+    color:#E46E2E;
     border-bottom-color: #e0e0e0;
     border-left-style: none;
     border-style: solid;
